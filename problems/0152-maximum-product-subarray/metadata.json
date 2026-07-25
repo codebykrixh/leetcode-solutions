@@ -1,0 +1,19 @@
+{
+  "problemId": 152,
+  "slug": "maximum-product-subarray",
+  "title": "Maximum Product Subarray",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-25T17:30:36.369Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "url": "https://leetcode.com/problems/maximum-product-subarray/",
+  "commitSha": "dc7382779505e392209ebc145dd83b8b9cc7128c",
+  "contentHash": "255a9caf"
+}

@@ -1,0 +1,19 @@
+{
+  "problemId": 792,
+  "slug": "binary-search",
+  "title": "Binary Search",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-26T17:57:20.409Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/binary-search/",
+  "commitSha": "75493565a3fda13b525e696f46b96cbb22334c49",
+  "contentHash": "2cebdc0e"
+}

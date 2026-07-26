@@ -1,0 +1,19 @@
+{
+  "problemId": 35,
+  "slug": "search-insert-position",
+  "title": "Search Insert Position",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-26T18:03:47.750Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/search-insert-position/",
+  "commitSha": "b319095b74b0380985446d713d6326d3926fa151",
+  "contentHash": "-39790929"
+}

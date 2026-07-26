@@ -194,4 +194,5 @@ Consider giving it a ⭐ on GitHub!
 | 493 | [Reverse Pairs](problems/0493-reverse-pairs/) | Hard | cpp | N/A | N/A | 2026-07-23 |
 | 152 | [Maximum Product Subarray](problems/0152-maximum-product-subarray/) | Medium | cpp | N/A | N/A | 2026-07-25 |
 | 792 | [Binary Search](problems/0792-binary-search/) | Easy | cpp | N/A | N/A | 2026-07-26 |
+| 35 | [Search Insert Position](problems/0035-search-insert-position/) | Easy | cpp | N/A | N/A | 2026-07-26 |
 <!-- LGS:PROBLEMS-TABLE:END -->

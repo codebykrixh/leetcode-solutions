@@ -1,0 +1,19 @@
+{
+  "problemId": 34,
+  "slug": "find-first-and-last-position-of-element-in-sorted-array",
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-28T15:04:51.344Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+  "commitSha": "b9e741f44abf9b734397481aedb97f65943ff0bc",
+  "contentHash": "3b162fd5"
+}

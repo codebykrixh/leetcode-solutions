@@ -198,4 +198,5 @@ Consider giving it a ⭐ on GitHub!
 | 33 | [Search in Rotated Sorted Array](problems/0033-search-in-rotated-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-search-in-rotated-sorted-array-ii/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 | 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array/) | Medium | cpp | 0 ms | 14.2 MB | 2026-07-28 |
+| 34 | [Find First and Last Position of Element in Sorted Array](problems/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 <!-- LGS:PROBLEMS-TABLE:END -->

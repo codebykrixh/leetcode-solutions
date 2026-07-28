@@ -197,4 +197,5 @@ Consider giving it a ⭐ on GitHub!
 | 35 | [Search Insert Position](problems/0035-search-insert-position/) | Easy | cpp | N/A | N/A | 2026-07-26 |
 | 33 | [Search in Rotated Sorted Array](problems/0033-search-in-rotated-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 | 81 | [Search in Rotated Sorted Array II](problems/0081-search-in-rotated-sorted-array-ii/) | Medium | cpp | N/A | N/A | 2026-07-28 |
+| 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array/) | Medium | cpp | 0 ms | 14.2 MB | 2026-07-28 |
 <!-- LGS:PROBLEMS-TABLE:END -->

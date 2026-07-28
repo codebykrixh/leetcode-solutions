@@ -4,9 +4,9 @@
 **Topics:** Array, Binary Search
 **Link:** [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 **Language:** cpp
-**Runtime:** 0 ms (beats 100.0%)
-**Memory:** 14.2 MB (beats 12.2%)
-**Solved:** 2026-07-28T12:19:24.764Z
+**Runtime:** N/A
+**Memory:** N/A
+**Solved:** 2026-07-28T15:18:03.622Z
 
 ## Approach
 

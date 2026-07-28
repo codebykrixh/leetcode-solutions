@@ -1,0 +1,19 @@
+{
+  "problemId": 33,
+  "slug": "search-in-rotated-sorted-array",
+  "title": "Search in Rotated Sorted Array",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-28T11:14:24.040Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+  "commitSha": "22dbda152f1ae68cfe8088885b3fda81bb46ea6a",
+  "contentHash": "23ec8858"
+}

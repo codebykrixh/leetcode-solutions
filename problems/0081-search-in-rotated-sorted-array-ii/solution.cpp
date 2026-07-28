@@ -7,7 +7,11 @@ public:
      while(low <= high){
         int mid = (low + high)/2;
         if(arr[mid] == target) return true;
-        if(arr[mid] >= arr[low]){
+        else if(arr[low] == arr[mid] == arr[high]){
+            low++;
+            high--;
+        }
+        else if(arr[mid] >= arr[low]){
             if((arr[low] <= target) && (arr[mid] >= target)) high = mid - 1;
             else low = mid + 1;
         }

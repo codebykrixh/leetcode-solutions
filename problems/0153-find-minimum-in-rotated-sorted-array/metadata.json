@@ -1,0 +1,19 @@
+{
+  "problemId": 153,
+  "slug": "find-minimum-in-rotated-sorted-array",
+  "title": "Find Minimum in Rotated Sorted Array",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-28T12:19:24.764Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "14.2 MB",
+  "memoryPercentile": 12.18439999999999,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+  "commitSha": "d1d55b99450488d91951d03ba9f6eadd188df461",
+  "contentHash": "78fb6089"
+}

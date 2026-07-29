@@ -1,0 +1,19 @@
+{
+  "problemId": 540,
+  "slug": "single-element-in-a-sorted-array",
+  "title": "Single Element in a Sorted Array",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-29T18:22:39.191Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+  "commitSha": "0d39dbbeee81f5c64daa6830b64d9c4e53683dc6",
+  "contentHash": "74e8393a"
+}

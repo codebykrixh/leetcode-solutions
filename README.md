@@ -200,4 +200,5 @@ Consider giving it a ⭐ on GitHub!
 | 153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 | 34 | [Find First and Last Position of Element in Sorted Array](problems/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-28 |
 | 540 | [Single Element in a Sorted Array](problems/0540-single-element-in-a-sorted-array/) | Medium | cpp | N/A | N/A | 2026-07-29 |
+| 162 | [Find Peak Element](problems/0162-find-peak-element/) | Medium | cpp | N/A | N/A | 2026-07-30 |
 <!-- LGS:PROBLEMS-TABLE:END -->

@@ -1,0 +1,19 @@
+{
+  "problemId": 162,
+  "slug": "find-peak-element",
+  "title": "Find Peak Element",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-30T08:25:20.695Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/find-peak-element/",
+  "commitSha": "a945243645e145e065f2b1a4a9661ebd278e8b34",
+  "contentHash": "50059782"
+}

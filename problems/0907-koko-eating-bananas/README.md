@@ -6,7 +6,7 @@
 **Language:** cpp
 **Runtime:** N/A
 **Memory:** N/A
-**Solved:** 2026-07-31T15:10:04.825Z
+**Solved:** 2026-07-31T15:14:01.154Z
 
 ## Approach
 

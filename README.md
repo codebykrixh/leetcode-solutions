@@ -203,4 +203,5 @@ Consider giving it a ⭐ on GitHub!
 | 162 | [Find Peak Element](problems/0162-find-peak-element/) | Medium | cpp | N/A | N/A | 2026-07-31 |
 | 907 | [Koko Eating Bananas](problems/0907-koko-eating-bananas/) | Medium | cpp | N/A | N/A | 2026-07-31 |
 | 1605 | [Minimum Number of Days to Make m Bouquets](problems/1605-minimum-number-of-days-to-make-m-bouquets/) | Medium | cpp | N/A | N/A | 2026-07-31 |
+| 1408 | [Find the Smallest Divisor Given a Threshold](problems/1408-find-the-smallest-divisor-given-a-threshold/) | Medium | cpp | N/A | N/A | 2026-07-31 |
 <!-- LGS:PROBLEMS-TABLE:END -->

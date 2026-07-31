@@ -1,0 +1,19 @@
+{
+  "problemId": 907,
+  "slug": "koko-eating-bananas",
+  "title": "Koko Eating Bananas",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-31T15:10:04.825Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/koko-eating-bananas/",
+  "commitSha": "dc760651f09e15ba12423bf7064ae8a63e063be4",
+  "contentHash": "-30ab04e5"
+}

@@ -4,7 +4,7 @@
   "title": "Find the Smallest Divisor Given a Threshold",
   "difficulty": "Medium",
   "language": "cpp",
-  "submissionTimeIso": "2026-07-31T21:07:43.578Z",
+  "submissionTimeIso": "2026-07-31T21:11:14.176Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -14,6 +14,6 @@
     "Binary Search"
   ],
   "url": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
-  "commitSha": "04d11bd2c4c7a9693b9e698ea42aa0351796f0ed",
-  "contentHash": "55d400b"
+  "commitSha": "9f3c8ce0ccd1888985171e8a0718fec7e35aa81b",
+  "contentHash": "1cb95fad"
 }

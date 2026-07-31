@@ -4,16 +4,16 @@
   "title": "Single Element in a Sorted Array",
   "difficulty": "Medium",
   "language": "cpp",
-  "submissionTimeIso": "2026-07-29T18:23:59.589Z",
-  "runtimeDisplay": "N/A",
-  "runtimePercentile": null,
-  "memoryDisplay": "N/A",
-  "memoryPercentile": null,
+  "submissionTimeIso": "2026-07-31T09:46:26.185Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "26.3 MB",
+  "memoryPercentile": 35.89810000000002,
   "tags": [
     "Array",
     "Binary Search"
   ],
   "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
-  "commitSha": "4cd2363fe2ac1fc73d57ad683e76b655f30b6ef2",
-  "contentHash": "2d29ad16"
+  "commitSha": "63383ccd2d246e2d79fe2c8e1662d6ee2658bbd1",
+  "contentHash": "-4cf8c82a"
 }

@@ -1,0 +1,19 @@
+{
+  "problemId": 1605,
+  "slug": "minimum-number-of-days-to-make-m-bouquets",
+  "title": "Minimum Number of Days to Make m Bouquets",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-07-31T20:07:23.777Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+  "commitSha": "6d69e2ebd289c1475c82fcbc19676adb0032783d",
+  "contentHash": "4e057f55"
+}

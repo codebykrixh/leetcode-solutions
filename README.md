@@ -202,4 +202,5 @@ Consider giving it a ⭐ on GitHub!
 | 540 | [Single Element in a Sorted Array](problems/0540-single-element-in-a-sorted-array/) | Medium | cpp | 0 ms | 26.3 MB | 2026-07-31 |
 | 162 | [Find Peak Element](problems/0162-find-peak-element/) | Medium | cpp | N/A | N/A | 2026-07-31 |
 | 907 | [Koko Eating Bananas](problems/0907-koko-eating-bananas/) | Medium | cpp | N/A | N/A | 2026-07-31 |
+| 1605 | [Minimum Number of Days to Make m Bouquets](problems/1605-minimum-number-of-days-to-make-m-bouquets/) | Medium | cpp | N/A | N/A | 2026-07-31 |
 <!-- LGS:PROBLEMS-TABLE:END -->

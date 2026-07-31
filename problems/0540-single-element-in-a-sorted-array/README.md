@@ -4,9 +4,9 @@
 **Topics:** Array, Binary Search
 **Link:** [https://leetcode.com/problems/single-element-in-a-sorted-array/](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 **Language:** cpp
-**Runtime:** N/A
-**Memory:** N/A
-**Solved:** 2026-07-29T18:23:59.589Z
+**Runtime:** 0 ms (beats 100.0%)
+**Memory:** 26.3 MB (beats 35.9%)
+**Solved:** 2026-07-31T09:46:26.185Z
 
 ## Approach
 

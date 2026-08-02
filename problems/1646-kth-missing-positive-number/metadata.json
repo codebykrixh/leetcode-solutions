@@ -1,0 +1,19 @@
+{
+  "problemId": 1646,
+  "slug": "kth-missing-positive-number",
+  "title": "Kth Missing Positive Number",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-02T15:12:25.486Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search"
+  ],
+  "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+  "commitSha": "e0b58b56b25142880df6ef652703819e5e8993a4",
+  "contentHash": "b71f6ad"
+}

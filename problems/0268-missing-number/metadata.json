@@ -1,0 +1,23 @@
+{
+  "problemId": 268,
+  "slug": "missing-number",
+  "title": "Missing Number",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-03T18:00:22.919Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/missing-number/",
+  "commitSha": "c192d7780c83ffc1c4e0dd6e1098a6f7a080bea0",
+  "contentHash": "-efd2abe"
+}

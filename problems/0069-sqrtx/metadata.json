@@ -1,0 +1,20 @@
+{
+  "problemId": 69,
+  "slug": "sqrtx",
+  "title": "Sqrt(x)",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-04T17:49:15.297Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Math",
+    "Binary Search",
+    "Newton's Method"
+  ],
+  "url": "https://leetcode.com/problems/sqrtx/",
+  "commitSha": "367d1396a7ab0f92669bbb10187f983cdbd56203",
+  "contentHash": "493446b1"
+}

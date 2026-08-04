@@ -4,7 +4,7 @@
   "title": "Sqrt(x)",
   "difficulty": "Easy",
   "language": "cpp",
-  "submissionTimeIso": "2026-08-04T17:49:40.505Z",
+  "submissionTimeIso": "2026-08-04T17:49:41.297Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -15,6 +15,6 @@
     "Newton's Method"
   ],
   "url": "https://leetcode.com/problems/sqrtx/",
-  "commitSha": "3906a09ed7999b6fb8f8f8cdc170d903962fd820",
+  "commitSha": "5bc5c82c52a0c92aa0fcc06ac086bcf55c4b4a1d",
   "contentHash": "-1472dd2e"
 }

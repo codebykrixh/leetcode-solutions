@@ -207,4 +207,5 @@ Consider giving it a ⭐ on GitHub!
 | 1056 | [Capacity To Ship Packages Within D Days](problems/1056-capacity-to-ship-packages-within-d-days/) | Medium | cpp | N/A | N/A | 2026-08-01 |
 | 1646 | [Kth Missing Positive Number](problems/1646-kth-missing-positive-number/) | Easy | cpp | N/A | N/A | 2026-08-02 |
 | 268 | [Missing Number](problems/0268-missing-number/) | Easy | cpp | N/A | N/A | 2026-08-03 |
+| 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | cpp | N/A | N/A | 2026-08-04 |
 <!-- LGS:PROBLEMS-TABLE:END -->

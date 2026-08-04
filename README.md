@@ -190,7 +190,7 @@ Consider giving it a ⭐ on GitHub!
 | 56 | [Merge Intervals](problems/0056-merge-intervals/) | Medium | cpp | N/A | N/A | 2026-07-20 |
 | 88 | [Merge Sorted Array](problems/0088-merge-sorted-array/) | Easy | cpp | N/A | N/A | 2026-07-20 |
 | 118 | [Pascal's Triangle](problems/0118-pascals-triangle/) | Easy | cpp | 0 ms | 9.6 MB | 2026-07-21 |
-| 15 | [3Sum](problems/0015-3sum/) | Medium | cpp | N/A | N/A | 2026-07-22 |
+| 15 | [3Sum](problems/0015-3sum/) | Medium | cpp | N/A | N/A | 2026-07-21 |
 | 493 | [Reverse Pairs](problems/0493-reverse-pairs/) | Hard | cpp | N/A | N/A | 2026-07-23 |
 | 152 | [Maximum Product Subarray](problems/0152-maximum-product-subarray/) | Medium | cpp | N/A | N/A | 2026-07-25 |
 | 792 | [Binary Search](problems/0792-binary-search/) | Easy | cpp | N/A | N/A | 2026-07-26 |

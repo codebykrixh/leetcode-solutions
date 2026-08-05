@@ -208,4 +208,5 @@ Consider giving it a ⭐ on GitHub!
 | 1646 | [Kth Missing Positive Number](problems/1646-kth-missing-positive-number/) | Easy | cpp | N/A | N/A | 2026-08-02 |
 | 268 | [Missing Number](problems/0268-missing-number/) | Easy | cpp | N/A | N/A | 2026-08-03 |
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | cpp | N/A | N/A | 2026-08-04 |
+| 410 | [Split Array Largest Sum](problems/0410-split-array-largest-sum/) | Hard | cpp | N/A | N/A | 2026-08-05 |
 <!-- LGS:PROBLEMS-TABLE:END -->

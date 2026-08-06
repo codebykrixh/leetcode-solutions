@@ -4,7 +4,7 @@
   "title": "Intersection of Two Arrays",
   "difficulty": "Easy",
   "language": "cpp",
-  "submissionTimeIso": "2026-08-06T18:18:25.081Z",
+  "submissionTimeIso": "2026-08-06T18:25:49.889Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -17,6 +17,6 @@
     "Sorting"
   ],
   "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
-  "commitSha": "375b05f336e960ced503dfd614dec5c12f71d0df",
-  "contentHash": "-221894e9"
+  "commitSha": "12ffd819084975eb8f9f501f901ccae0e83f0460",
+  "contentHash": "72594f1c"
 }

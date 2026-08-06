@@ -1,0 +1,22 @@
+{
+  "problemId": 349,
+  "slug": "intersection-of-two-arrays",
+  "title": "Intersection of Two Arrays",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-06T18:18:25.081Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Binary Search",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/intersection-of-two-arrays/",
+  "commitSha": "375b05f336e960ced503dfd614dec5c12f71d0df",
+  "contentHash": "-221894e9"
+}

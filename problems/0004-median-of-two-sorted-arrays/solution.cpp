@@ -10,29 +10,29 @@ public:
         while(i < n1 && j < n2){
             if((indlen1 != -1) && (indlen2 != -1)) break;
             if(nums1[i] < nums2[j]){
-                if(cnt == ind1) (double)indlen1 = nums1[i];
-                if(cnt == ind2) (double)indlen2 = nums2[i];
+                if(cnt == ind1) indlen1 = (double)nums1[i];
+                if(cnt == ind2) indlen2 = (double)nums1[i];
                 cnt++;
                 i++;
             }
             else{
-                if(cnt == ind1) (double)indlen1 = nums1[j];
-                if(cnt == ind2) (double)indlen2 = nums2[j];
+                if(cnt == ind1) indlen1 = (double)nums2[j];
+                if(cnt == ind2) indlen2 = (double)nums2[j];
                 cnt++;
                 j++;               
             }
         }
         while(i < n1){
                 if((indlen1 != -1) && (indlen2 != -1)) break;
-                if(cnt == ind1) (double)indlen1 = nums1[i];
-                if(cnt == ind2) (double)indlen2 = nums2[i];
+                if(cnt == ind1) indlen1 = (double)nums1[i];
+                if(cnt == ind2) indlen2 = (double)nums1[i];
                 cnt++;
                 i++;            
         }
         while(j < n2){
                 if((indlen1 != -1) && (indlen2 != -1)) break;
-                if(cnt == ind1) (double)indlen1 = nums1[j];
-                if(cnt == ind2) (double)indlen2 = nums2[j];
+                if(cnt == ind1) indlen1 = (double)nums2[j];
+                if(cnt == ind2) indlen2 = (double)nums2[j];
                 cnt++;
                 j++;            
         }

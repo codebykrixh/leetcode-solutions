@@ -210,5 +210,5 @@ Consider giving it a ⭐ on GitHub!
 | 69 | [Sqrt(x)](problems/0069-sqrtx/) | Easy | cpp | N/A | N/A | 2026-08-04 |
 | 410 | [Split Array Largest Sum](problems/0410-split-array-largest-sum/) | Hard | cpp | N/A | N/A | 2026-08-05 |
 | 349 | [Intersection of Two Arrays](problems/0349-intersection-of-two-arrays/) | Easy | cpp | N/A | N/A | 2026-08-06 |
-| 4 | [Median of Two Sorted Arrays](problems/0004-median-of-two-sorted-arrays/) | Hard | cpp | N/A | N/A | 2026-08-07 |
+| 4 | [Median of Two Sorted Arrays](problems/0004-median-of-two-sorted-arrays/) | Hard | cpp | N/A | N/A | 2026-08-08 |
 <!-- LGS:PROBLEMS-TABLE:END -->

@@ -1,0 +1,19 @@
+{
+  "problemId": 2737,
+  "slug": "row-with-maximum-ones",
+  "title": "Row With Maximum Ones",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-08T11:01:09.686Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/row-with-maximum-ones/",
+  "commitSha": "f09f0fd31b186619d32de2c7b16401d2d95bd267",
+  "contentHash": "746812cb"
+}

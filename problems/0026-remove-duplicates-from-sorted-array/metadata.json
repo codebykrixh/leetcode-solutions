@@ -1,0 +1,19 @@
+{
+  "problemId": 26,
+  "slug": "remove-duplicates-from-sorted-array",
+  "title": "Remove Duplicates from Sorted Array",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-09T18:21:26.107Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Two Pointers"
+  ],
+  "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "commitSha": "a9c7e1d4d0569e9d410bff9122c06de6fcab3161",
+  "contentHash": "3db9a5cd"
+}

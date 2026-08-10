@@ -214,4 +214,5 @@ Consider giving it a ⭐ on GitHub!
 | 2737 | [Row With Maximum Ones](problems/2737-row-with-maximum-ones/) | Easy | cpp | N/A | N/A | 2026-08-08 |
 | 26 | [Remove Duplicates from Sorted Array](problems/0026-remove-duplicates-from-sorted-array/) | Easy | cpp | N/A | N/A | 2026-08-09 |
 | 240 | [Search a 2D Matrix II](problems/0240-search-a-2d-matrix-ii/) | Medium | cpp | N/A | N/A | 2026-08-10 |
+| 74 | [Search a 2D Matrix](problems/0074-search-a-2d-matrix/) | Medium | cpp | 0 ms | 13.3 MB | 2026-08-10 |
 <!-- LGS:PROBLEMS-TABLE:END -->

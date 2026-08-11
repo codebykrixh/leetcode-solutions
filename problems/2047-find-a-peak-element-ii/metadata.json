@@ -1,0 +1,20 @@
+{
+  "problemId": 2047,
+  "slug": "find-a-peak-element-ii",
+  "title": "Find a Peak Element II",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-11T07:45:39.467Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Matrix"
+  ],
+  "url": "https://leetcode.com/problems/find-a-peak-element-ii/",
+  "commitSha": "29d62ebb9740886a66b3e260db663f99f1b57152",
+  "contentHash": "393037"
+}

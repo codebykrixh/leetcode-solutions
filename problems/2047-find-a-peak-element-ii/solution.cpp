@@ -3,8 +3,8 @@ public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
-        int L = -1, R = -1, T = -1, B = -1;
         for(int i = 0; i < n*m; i++){
+        int L = -1, R = -1, T = -1, B = -1;
             int row = i/m;
             int col = i%m;
             if(row > 0){

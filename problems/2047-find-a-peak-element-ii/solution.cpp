@@ -15,7 +15,7 @@ public:
             if(col > 0){
                 L = mat[row][col-1];
             }
-            if(col < n-1)
+            if(col < m-1)
             R = mat[row][col+1];
         
             if((mat[row][col] > L) && (mat[row][col] > R) && (mat[row][col] > T) && (mat[row][col] > B)){

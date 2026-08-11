@@ -3,50 +3,25 @@ public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
-        for(int i = 0; i <n; i++){
-            for(int j = 0; j < m; j++){
-                if(i == 0){
-                    if(j == 0){
-                        if(mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j+1])
-                         return {i,j};
-                    }
-                    else if(j == m - 1){
-                        if(mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j-1])
-                         return {i,j};
-                    }
-                    else{
-                        if(mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j-1] && mat[i][j] > mat[i][j+1])
-                         return {i,j};    
-                        }
-                }
-                if(i ==  n - 1){
-                    if(j == 0){
-                        if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i][j+1])
-                         return {i,j};
-                    }
-                    else if(j == m - 1){
-                        if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i][j-1])
-                         return {i,j};
-                    }
-                    else{
-                        if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i][j-1] && mat[i][j] > mat[i][j+1])
-                         return {i,j};                    }
-                }
-                if(j == 0){
-                    if(i > 0 && i < n-1){
-                    if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j+1]) return {i,j};
-                }
-                }
-                if(j == m-1){
-                    if(i > 0 && i < n-1){
-                    if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j-1]) return {i,j};
-                }
-                }
-                else{
-                    if(i > 0 && i < n-1 && j > 0 && j < n-1){
-                    if(mat[i][j] > mat[i-1][j] && mat[i][j] > mat[i+1][j] && mat[i][j] > mat[i][j-1] && mat[i][j] > mat[i][j+1]) return {i,j};
-                }
-                }
+        int L = -1, R = -1, T = -1, B = -1;
+        for(int i = 0; i < n*m; i++){
+            int row = i/m;
+            int col = i%m;
+            if(row > 0){
+                T = mat[row-1][col];
+            }
+            if(row < n-1) 
+                B = mat[row+1][col];
+            if(col > 0){
+                L = mat[row][col-1];
+            }
+            if(col < n-1)
+            R = mat[row][col+1];
+        
+            if((mat[row][col] > L) && (mat[row][col] > R) && (mat[row][col] > T) && (mat[row][col] > B)){
+                vector<int> ans;
+                ans = {row, col};
+                return ans;
             }
         }
         return {-1,-1};

@@ -1,0 +1,19 @@
+{
+  "problemId": 151,
+  "slug": "reverse-words-in-a-string",
+  "title": "Reverse Words in a String",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-13T17:58:46.762Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Two Pointers",
+    "String"
+  ],
+  "url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+  "commitSha": "dbe81015623bf806d34a11dcb0b010263ebd8217",
+  "contentHash": "-7f0b44b"
+}

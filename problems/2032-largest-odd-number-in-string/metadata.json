@@ -4,7 +4,7 @@
   "title": "Largest Odd Number in String",
   "difficulty": "Easy",
   "language": "cpp",
-  "submissionTimeIso": "2026-08-15T17:41:08.040Z",
+  "submissionTimeIso": "2026-08-15T17:43:31.790Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -15,6 +15,6 @@
     "Greedy"
   ],
   "url": "https://leetcode.com/problems/largest-odd-number-in-string/",
-  "commitSha": "9f6075ea870fa168fb23ab2003b01be48fcf25a1",
-  "contentHash": "4b365f89"
+  "commitSha": "ad110e4a696000d6cbe63b39fe7f2724867f0ff4",
+  "contentHash": "-55ffd279"
 }

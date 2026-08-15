@@ -1,7 +1,7 @@
 class Solution {
 public:
     string largestOddNumber(string x) {
-        int num = stoi(x);
+        long long num = stoll(x);
         while(num > 0 && num%2 == 0){
         int last = num%10;
         num = num -  last;

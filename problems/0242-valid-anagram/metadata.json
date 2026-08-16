@@ -1,0 +1,20 @@
+{
+  "problemId": 242,
+  "slug": "valid-anagram",
+  "title": "Valid Anagram",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-16T13:34:21.427Z",
+  "runtimeDisplay": "0 ms",
+  "runtimePercentile": 100,
+  "memoryDisplay": "9.8 MB",
+  "memoryPercentile": 49.940599999999996,
+  "tags": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "commitSha": "d59f2e7d4d5ace9cff7c30c91f469930fc50d0ba",
+  "contentHash": "6fe95c05"
+}

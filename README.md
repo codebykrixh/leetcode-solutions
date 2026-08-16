@@ -219,4 +219,5 @@ Consider giving it a ⭐ on GitHub!
 | 151 | [Reverse Words in a String](problems/0151-reverse-words-in-a-string/) | Medium | cpp | N/A | N/A | 2026-08-13 |
 | 1078 | [Remove Outermost Parentheses](problems/1078-remove-outermost-parentheses/) | Easy | cpp | N/A | N/A | 2026-08-14 |
 | 2032 | [Largest Odd Number in String](problems/2032-largest-odd-number-in-string/) | Easy | cpp | N/A | N/A | 2026-08-16 |
+| 14 | [Longest Common Prefix](problems/0014-longest-common-prefix/) | Easy | cpp | N/A | N/A | 2026-08-16 |
 <!-- LGS:PROBLEMS-TABLE:END -->

@@ -36,17 +36,17 @@ public:
         string ans;
         while(i >= 0){
             while(i >= 0 && s[i] == ' ') i--;
-            if(j > 0) ans.push_back(' ');
+            if(i >= 0 && j > 0) ans.push_back(' ');
             int end = i;
             while(i >= 0 && s[i] != ' '){
                 ans.push_back(s[i]);
                 i--;
             }
             int len = end - i;
-            reverse(ans.begin() + j, ans.begin() + len + j);
+            reverse(ans.begin() + j , ans.begin() + len + j);
             j = len + 1 + j;
         }
-        if(s[n-1] == ' ') ans.pop_back();
+        // if(s[n-1] == ' ') ans.pop_back();
         // reverse(ans.begin(), ans.end());
         return ans;
     }

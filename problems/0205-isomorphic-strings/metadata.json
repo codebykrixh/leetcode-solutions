@@ -1,0 +1,19 @@
+{
+  "problemId": 205,
+  "slug": "isomorphic-strings",
+  "title": "Isomorphic Strings",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-16T17:24:11.225Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Hash Table",
+    "String"
+  ],
+  "url": "https://leetcode.com/problems/isomorphic-strings/",
+  "commitSha": "e70acc976f175981c4cd247cf9ea99950f351435",
+  "contentHash": "75f1d349"
+}

@@ -1,0 +1,19 @@
+{
+  "problemId": 812,
+  "slug": "rotate-string",
+  "title": "Rotate String",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-16T13:11:45.613Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "String",
+    "String Matching"
+  ],
+  "url": "https://leetcode.com/problems/rotate-string/",
+  "commitSha": "fbc42f1584ed85f223fc59737580e9f9cc6313ed",
+  "contentHash": "1e564ee2"
+}

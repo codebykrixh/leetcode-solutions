@@ -1,19 +1,33 @@
 class Solution {
 public:
+    // bool isIsomorphic(string s, string t) {
+    //     int n = s.length();
+    //     long long k = 5 * 10 * 10 * 10 * 10;
+    //     vector<int> arr(k, 0);
+    //     vector<int> finish(k,0);
+    //     for(int i = 0; i < n ; i++){
+    //         if(arr[(int)s[i]] == 0 && finish[(int)t[i]] == 0) {
+    //         arr[(int)s[i]] = (int)t[i];
+    //         finish[(int)t[i]] = 1;
+    //         }
+    //         else{
+    //             if(arr[(int)s[i]] != (int)t[i]) return false;
+    //         }
+class Solution {
+public:
     bool isIsomorphic(string s, string t) {
-        int n = s.length();
-        long long k = 5 * 10 * 10 * 10 * 10;
-        vector<int> arr(k, 0);
-        vector<int> finish(k,0);
-        for(int i = 0; i < n ; i++){
-            if(arr[(int)s[i]] == 0 && finish[(int)t[i]] == 0) {
-            arr[(int)s[i]] = (int)t[i];
-            finish[(int)t[i]] = 1;
-            }
-            else{
-                if(arr[(int)s[i]] != (int)t[i]) return false;
-            }
-
+        int m1[256]={0},m2[256]={0};
+        int n=s.size();
+        for (int i=0;i<n;++i)
+        {
+        if (m1[s[i]]!=m2[t[i]])
+        return false;
+        m1[s[i]]=i+1;
+        m2[t[i]]=i+1;
+    }
+    return true;
+    }
+};
         }
         return true;
     }

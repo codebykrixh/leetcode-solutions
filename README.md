@@ -221,4 +221,5 @@ Consider giving it a ⭐ on GitHub!
 | 2032 | [Largest Odd Number in String](problems/2032-largest-odd-number-in-string/) | Easy | cpp | N/A | N/A | 2026-08-16 |
 | 14 | [Longest Common Prefix](problems/0014-longest-common-prefix/) | Easy | cpp | N/A | N/A | 2026-08-16 |
 | 812 | [Rotate String](problems/0812-rotate-string/) | Easy | cpp | N/A | N/A | 2026-08-16 |
+| 242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | cpp | 0 ms | 9.8 MB | 2026-08-16 |
 <!-- LGS:PROBLEMS-TABLE:END -->

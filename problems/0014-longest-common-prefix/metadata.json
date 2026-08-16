@@ -1,0 +1,20 @@
+{
+  "problemId": 14,
+  "slug": "longest-common-prefix",
+  "title": "Longest Common Prefix",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "submissionTimeIso": "2026-08-16T12:46:14.692Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
+  "commitSha": "c885236868057f54d9bd4b55079cdce4ed033040",
+  "contentHash": "-2d9c05de"
+}

@@ -9,6 +9,7 @@ public:
                 break;
             }
         }
+        if(s[0] == s[n-1]) ind++;
         if(ind == -1) return false;
         for(int i = 0; i< n; i++){
             if(ind == n) ind = ind - n;

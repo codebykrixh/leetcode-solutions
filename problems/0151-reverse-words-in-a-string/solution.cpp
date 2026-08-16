@@ -1,35 +1,53 @@
+#include<bits/stdc++.h>
 class Solution {
 public:
     string reverseWords(string s) {
-        reverse(s.begin(), s.end());
-
         int n = s.size();
-        int i = 0, j = 0;
+        // reverse(s.begin(), s.end());
 
-        while (i < n) {
-            // Skip spaces
-            while (i < n && s[i] == ' ')
-                i++;
+        // int n = s.size();
+        // int i = 0, j = 0;
 
-            if (i >= n)
-                break;
+        // while (i < n) {
+        //     // Skip spaces
+        //     while (i < n && s[i] == ' ')
+        //         i++;
 
-            // Add one space between words
-            if (j > 0)
-                s[j++] = ' ';
+        //     if (i >= n)
+        //         break;
 
-            int start = j;
+        //     // Add one space between words
+        //     if (j > 0)
+        //         s[j++] = ' ';
 
-            // Copy current word
-            while (i < n && s[i] != ' ') {
-                s[j++] = s[i++];
+        //     int start = j;
+
+        //     // Copy current word
+        //     while (i < n && s[i] != ' ') {
+        //         s[j++] = s[i++];
+        //     }
+
+        //     // Reverse this word back
+        //     reverse(s.begin() + start, s.begin() + j);
+        // }
+
+        // s.resize(j);
+        int i = n-1, j = 0;
+        string ans;
+        while(i >= 0){
+            while(i >= 0 && s[i] == ' ') i--;
+            if(j > 0) ans.push_back(' ');
+            int end = i;
+            while(i >= 0 && s[i] != ' '){
+                ans.push_back(s[i]);
+                i--;
             }
-
-            // Reverse this word back
-            reverse(s.begin() + start, s.begin() + j);
+            int len = end - i;
+            reverse(ans.begin() + j, ans.begin() + len + j);
+            j = len + 1 + j;
         }
-
-        s.resize(j);
-        return s;
+        if(s[n-1] == ' ') ans.pop_back();
+        // reverse(ans.begin(), ans.end());
+        return ans;
     }
 };

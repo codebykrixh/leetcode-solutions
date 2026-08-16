@@ -17,6 +17,9 @@ public:
         //     ind++;
         // }
         // return true;
+        int n = s.size();
+        int m = goal.size();
+        if(n != m) return false;
         string num = s + s;
         return (num.find(goal) != string::npos);
     }

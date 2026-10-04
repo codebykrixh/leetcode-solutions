@@ -1,0 +1,22 @@
+{
+  "problemId": 678,
+  "slug": "valid-parenthesis-string",
+  "title": "Valid Parenthesis String",
+  "difficulty": "Medium",
+  "language": "cpp",
+  "submissionTimeIso": "2026-10-04T17:21:18.267Z",
+  "runtimeDisplay": "N/A",
+  "runtimePercentile": null,
+  "memoryDisplay": "N/A",
+  "memoryPercentile": null,
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Stack",
+    "Greedy",
+    "Bracket Sequences"
+  ],
+  "url": "https://leetcode.com/problems/valid-parenthesis-string/",
+  "commitSha": "ada8adee9db1a17f8229637bbdfc841cc735276b",
+  "contentHash": "590ab902"
+}

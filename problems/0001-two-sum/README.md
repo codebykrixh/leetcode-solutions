@@ -4,9 +4,9 @@
 **Topics:** Array, Hash Table
 **Link:** [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
 **Language:** cpp
-**Runtime:** 44 ms (beats 16.0%)
-**Memory:** 14.1 MB (beats 84.9%)
-**Solved:** 2026-08-07T22:05:19.573Z
+**Runtime:** N/A
+**Memory:** N/A
+**Solved:** 2026-10-04T10:53:01.710Z
 
 ## Approach
 

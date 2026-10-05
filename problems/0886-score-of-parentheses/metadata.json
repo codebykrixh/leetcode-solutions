@@ -4,7 +4,7 @@
   "title": "Score of Parentheses",
   "difficulty": "Medium",
   "language": "cpp",
-  "submissionTimeIso": "2026-10-05T10:53:18.613Z",
+  "submissionTimeIso": "2026-10-05T12:15:14.096Z",
   "runtimeDisplay": "N/A",
   "runtimePercentile": null,
   "memoryDisplay": "N/A",
@@ -15,6 +15,6 @@
     "Bracket Sequences"
   ],
   "url": "https://leetcode.com/problems/score-of-parentheses/",
-  "commitSha": "67f158982a57a90a8091bac0b45f7fd10035b672",
-  "contentHash": "5e4fb93c"
+  "commitSha": "0e1532ce361b465d51c52bc0456c063ecea27aa7",
+  "contentHash": "6cc17e2f"
 }

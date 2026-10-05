@@ -224,4 +224,5 @@ Consider giving it a ⭐ on GitHub!
 | 242 | [Valid Anagram](problems/0242-valid-anagram/) | Easy | cpp | 0 ms | 9.8 MB | 2026-08-16 |
 | 205 | [Isomorphic Strings](problems/0205-isomorphic-strings/) | Easy | cpp | N/A | N/A | 2026-08-16 |
 | 678 | [Valid Parenthesis String](problems/0678-valid-parenthesis-string/) | Medium | cpp | N/A | N/A | 2026-10-04 |
+| 886 | [Score of Parentheses](problems/0886-score-of-parentheses/) | Medium | cpp | N/A | N/A | 2026-10-05 |
 <!-- LGS:PROBLEMS-TABLE:END -->

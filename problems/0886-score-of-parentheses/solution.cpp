@@ -1,21 +1,47 @@
+// class Solution {
+// public:
+//     int scoreOfParentheses(string s) {
+//         int n = s.size();
+//         unordered_map<int, int> mpp;
+//         int cntl = 0;
+//         int sum = 0;
+//         for(int i = 0; i < n; i++){
+//             if(s[i] == '(') cntl++;
+//             else{
+//                 mpp[cntl - 1]++;
+//                 if(mpp[cntl] > 0) sum += 2 * mpp[cntl];
+//                 else{
+//                 if(cntl <= 1){
+//                 sum++;
+//                 }
+//                 }
+//                 cntl--;
+//             }
+
+//         }
+//         return sum;
+//     }
+// };
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        int n = s.size();
-        int sumf = 0, sumb = 0, cnt = 0, temp = 0;
-        for(int i = 0; i < n; i++){
-           if(s[i] == '(') cnt++;
-           else{
-            if(cnt == 1){
-                if(temp != 0)
-                sumf += temp * 2;
-                else sumf++;
-                temp = 0;
+        int depth = 0;
+        int ans = 0;
+
+        for(int i = 0; i < s.size(); i++) {
+
+            if(s[i] == '(') {
+                depth++;
             }
-            else temp++;
-            cnt--;
-           }
+            else {
+                depth--;
+
+                if(s[i-1] == '(') {
+                    ans += (1 << depth);
+                }
+            }
         }
-        return sumf;
+
+        return ans;
     }
 };
